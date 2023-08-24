@@ -5,7 +5,11 @@ public class dong {
         System.out.println("doan van dong");
         System.out.println("nhanh 3");
         System.out.println("thanh chinh sua nhanh 3");
+
         System.out.println("chinh sua nhanh 3");
         System.out.println("dong chinh sua phan 4");
+
+        System.out.println("thanh chinh sua nhanh 4");
+
     }
 }
