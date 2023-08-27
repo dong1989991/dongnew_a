@@ -1,7 +1,7 @@
 package org.example;
 
-public class nhanh_55 {
+public class nhanh_66 {
     public static void main(String[] args) {
-        System.out.println("nhanh 5");
+        System.out.println("nhanh 666666666666");
     }
 }
