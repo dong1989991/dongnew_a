@@ -17,6 +17,7 @@ public class Main {
             System.out.println("dang o master");
             System.out.println("dang o master lan 2");
             System.out.println("dang o nhanh master lan 3");
+            System.out.println("dang o nhanh 10");
 
 
         }
