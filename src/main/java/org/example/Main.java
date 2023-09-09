@@ -11,6 +11,7 @@ public class Main {
         System.out.println("dang o nhanh_van2");
         System.out.println("Van muon merge vao master OK");
         System.out.println("Van muon merge vao master OK2222");
+        System.out.println("Van muon merge vao master OK3333333");
 
         // Press Shift+F10 or click the green arrow button in the gutter to run the code.
         for (int i = 1; i <= 5; i++) {
